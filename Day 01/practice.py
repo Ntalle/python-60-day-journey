@@ -1,0 +1,5 @@
+print("Welcome to the band name genrator")
+name = input("\nPlease enter your name: ")
+hobby = input("\nPlease enter your hobby: ")
+city = input("\nPlease enter your city: ")
+print("\nYour band name is" + " " + name + " " + hobby + " " + city)git
